@@ -23,5 +23,4 @@ const Nav = styled.div `
   }
 `
 
-
 export default Nav;

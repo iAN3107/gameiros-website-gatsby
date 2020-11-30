@@ -1,5 +1,5 @@
 import React from "react"
-import Nav from "../styles/style"
+import Nav from "../styles/navbar"
 import { Link } from "gatsby"
 
 export default function () {
